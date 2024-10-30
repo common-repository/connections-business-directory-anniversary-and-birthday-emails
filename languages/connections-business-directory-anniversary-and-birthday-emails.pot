@@ -1,0 +1,213 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Connections Business Directory Anniversary and Birthday "
+"Emails\n"
+"POT-Creation-Date: 2018-06-04 12:41-0400\n"
+"PO-Revision-Date: 2018-06-04 12:40-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: connections-business-directory-anniversary-and-birthday-"
+"emails.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: connections-business-directory-anniversary-and-birthday-emails.php:183
+msgid "Anniversary and Birthday Emails"
+msgstr ""
+
+#: connections-business-directory-anniversary-and-birthday-emails.php:210
+msgid "Notification Types"
+msgstr ""
+
+#: connections-business-directory-anniversary-and-birthday-emails.php:220
+msgid "Admin Notification"
+msgstr ""
+
+#: connections-business-directory-anniversary-and-birthday-emails.php:230
+msgid "From"
+msgstr ""
+
+#: connections-business-directory-anniversary-and-birthday-emails.php:240
+#: connections-business-directory-anniversary-and-birthday-emails.php:356
+msgid "Message"
+msgstr ""
+
+#: connections-business-directory-anniversary-and-birthday-emails.php:250
+msgid "Advanced"
+msgstr ""
+
+#: connections-business-directory-anniversary-and-birthday-emails.php:281
+msgid "Send Types"
+msgstr ""
+
+#: connections-business-directory-anniversary-and-birthday-emails.php:282
+msgid "Choose the types of email to send."
+msgstr ""
+
+#: connections-business-directory-anniversary-and-birthday-emails.php:286
+msgid "Anniversary"
+msgstr ""
+
+#: connections-business-directory-anniversary-and-birthday-emails.php:287
+msgid "Birthday"
+msgstr ""
+
+#: connections-business-directory-anniversary-and-birthday-emails.php:299
+msgid "Send Notification?"
+msgstr ""
+
+#: connections-business-directory-anniversary-and-birthday-emails.php:300
+msgid ""
+"Whether or not to send a notification that the anniversary or birthday email "
+"has been sent. It is recommended that this option is be left disabled "
+"because it you have a large directory you could receive a lot of "
+"notifications."
+msgstr ""
+
+#: connections-business-directory-anniversary-and-birthday-emails.php:313
+msgid "To Name"
+msgstr ""
+
+#: connections-business-directory-anniversary-and-birthday-emails.php:314
+msgid "The name in which the email is to be sent to."
+msgstr ""
+
+#: connections-business-directory-anniversary-and-birthday-emails.php:317
+#: connections-business-directory-anniversary-and-birthday-emails.php:388
+msgid "Directory Administrator"
+msgstr ""
+
+#: connections-business-directory-anniversary-and-birthday-emails.php:327
+msgid "To Email"
+msgstr ""
+
+#: connections-business-directory-anniversary-and-birthday-emails.php:328
+msgid "The address in which email is to be sent to."
+msgstr ""
+
+#: connections-business-directory-anniversary-and-birthday-emails.php:341
+#: connections-business-directory-anniversary-and-birthday-emails.php:412
+msgid "Subject"
+msgstr ""
+
+#: connections-business-directory-anniversary-and-birthday-emails.php:342
+#: connections-business-directory-anniversary-and-birthday-emails.php:413
+msgid "The email subject."
+msgstr ""
+
+#: connections-business-directory-anniversary-and-birthday-emails.php:346
+msgid "Sent %fullname% a %type% email today."
+msgstr ""
+
+#: connections-business-directory-anniversary-and-birthday-emails.php:384
+msgid "From Name"
+msgstr ""
+
+#: connections-business-directory-anniversary-and-birthday-emails.php:385
+msgid "The name in which the email is said to come from."
+msgstr ""
+
+#: connections-business-directory-anniversary-and-birthday-emails.php:398
+msgid "From Email"
+msgstr ""
+
+#: connections-business-directory-anniversary-and-birthday-emails.php:399
+msgid ""
+"The address in which email is said to come from. This will set the \"from\" "
+"and \"reply to\" address."
+msgstr ""
+
+#: connections-business-directory-anniversary-and-birthday-emails.php:417
+msgid "Happy %type%, %fullname%!"
+msgstr ""
+
+#: connections-business-directory-anniversary-and-birthday-emails.php:438
+msgid "Anniversary Message"
+msgstr ""
+
+#: connections-business-directory-anniversary-and-birthday-emails.php:466
+msgid "Birthday Message"
+msgstr ""
+
+#: connections-business-directory-anniversary-and-birthday-emails.php:494
+msgid "Number of Days"
+msgstr ""
+
+#: connections-business-directory-anniversary-and-birthday-emails.php:495
+msgid ""
+"Enter the number of days before the event to send the email. Enter 0 to have "
+"the email sent on the day of the event."
+msgstr ""
+
+#: connections-business-directory-anniversary-and-birthday-emails.php:509
+msgid "Time to Start"
+msgstr ""
+
+#: connections-business-directory-anniversary-and-birthday-emails.php:510
+msgid ""
+"Specify the hour of each day in which to start sending email. Valid input is "
+"0–23 where 8 means start sending email starting after 8:00 am."
+msgstr ""
+
+#: connections-business-directory-anniversary-and-birthday-emails.php:524
+msgid "Email per Batch"
+msgstr ""
+
+#: connections-business-directory-anniversary-and-birthday-emails.php:525
+msgid ""
+"The number of emails to send per batch. Batches will be sent once per hour."
+msgstr ""
+
+#: connections-business-directory-anniversary-and-birthday-emails.php:552
+#: connections-business-directory-anniversary-and-birthday-emails.php:577
+msgid "Anniversary and Birthday Email"
+msgstr ""
+
+#: connections-business-directory-anniversary-and-birthday-emails.php:1138
+msgid "To unsubscribe, click here."
+msgstr ""
+
+#: connections-business-directory-anniversary-and-birthday-emails.php:1171
+msgid ""
+"You have been successfully unsubscribed anniversary and birthday emails."
+msgstr ""
+
+#: connections-business-directory-anniversary-and-birthday-emails.php:1172
+msgid "Unsubscribed"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Connections Business Directory Anniversary and Birthday Emails"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://connections-pro.com/documentation/anniversary-and-birthday-emails/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"An extension for the Connections Business Directory plugin which adds the "
+"ability to automatically send an email to entries on their anniversary or "
+"birthday."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Steven A. Zahm"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://connections-pro.com"
+msgstr ""
